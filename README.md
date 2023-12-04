@@ -4,7 +4,7 @@ Highways are more dangerous while traveling alone and at nighttime due to creepy
 
 The Highways can present safety challenges, especially at night when fewer people are around, leaving individuals vulnerable in emergencies. In these situations, seeking help or using mobile phones may be difficult. To address these concerns, we've developed a solution aimed at training a model to recognize a specific hand sign gesture.
 
-![Singal for help gesture](/Singal_for_Help_gestures.png)
+![Singal for help gesture](Signal_for_Help_gestures.png)
 
 This offers a simple way for distressed individuals to request assistance. Our motivation for this project comes from our dedication to ensuring everyone's safety, particularly in dangerous highway situations. Our primary objective is to create a model to swiftly detect the hand gesture provided for help. We aim to provide immediate assistance to those in distress and ensure their well-being on the highways. The central focus is to integrate this model into existing highway cameras. When the model detects someone in distress, it promptly sends a message or calls the nearest police or helpline office to provide swift aid. By training the model to recognize a specific hand sign gesture, we establish a straightforward yet effective means of communication for individuals facing danger. When someone raises their hand and makes the designated sign, the connected CCTV cameras immediately detect the signal and initiate a call to the nearest police or helpline office, guaranteeing a rapid response and location tracking. 
 
